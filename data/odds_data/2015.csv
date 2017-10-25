@@ -62,7 +62,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Berdych T.,Istomin D.,7,48,4600,850,6,1,6,4,,,,,,,2,0,Completed,1.2,4.33,1.17,4.75,1.22,4,1.18,5.47,,,1.24,5.5,1.18,4.59
 3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Seppi A.,Mayer L.,45,28,870,1299,5,7,7,6,7,6,,,,,2,1,Completed,1.83,1.83,2.05,1.72,1.8,1.91,2.1,1.81,,,2.13,1.96,1.95,1.81
 3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Kavcic B.,Monaco J.,99,61,545,770,7,6,6,4,,,,,,,2,0,Completed,1.72,2,1.82,1.9,1.83,1.83,1.86,2.03,,,1.93,2.05,1.8,1.96
-3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Stakhovsky S.,Ali Mutawa J.M.,57,N/A,781,N/A,6,1,6,1,,,,,,,2,0,Completed,1,101,,,1.01,17,1,51,,,1.02,101,1.01,24.01
+3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Stakhovsky S.,Ali Mutawa J.M.,57,,781,,6,1,6,1,,,,,,,2,0,Completed,1,101,,,1.01,17,1,51,,,1.02,101,1.01,24.01
 3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Basilashvili N.,Youzhny M.,171,47,293,850,7,5,6,2,,,,,,,2,0,Completed,3.5,1.28,3.2,1.33,3.4,1.3,3.27,1.37,,,3.5,1.37,3.23,1.33
 3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Djokovic N.,Lajovic D.,1,68,11360,711,6,2,6,1,,,,,,,2,0,Completed,1.03,15,1.03,11,1.03,10,1.04,14.8,,,1.05,24,1.03,12.06
 3,Doha,Qatar Exxon Mobil Open,1/6/15,ATP250,Outdoor,Hard,1st Round,3,Struff J.L.,Kohlschreiber P.,58,24,781,1415,7,6,4,6,6,1,,,,,2,1,Completed,3.25,1.33,3.1,1.35,3,1.36,3.27,1.38,,,3.3,1.4,3.09,1.35
@@ -615,7 +615,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Dodig I.,Sousa J.,96,52,560,902,6,3,7,5,,,,,,,2,0,Completed,1.53,2.37,1.6,2.3,1.57,2.25,1.59,2.52,,,1.71,2.55,1.58,2.33
 19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Delbonis F.,Lajovic D.,83,71,611,685,6,4,6,3,,,,,,,2,0,Completed,2.62,1.44,2.45,1.52,2.5,1.5,2.35,1.67,,,2.62,1.69,2.4,1.55
 19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Nieminen J.,De Bakker T.,70,125,693,446,7,6,6,4,,,,,,,2,0,Completed,1.8,1.9,1.8,1.95,1.8,1.91,1.87,2.05,,,1.92,2.05,1.83,1.93
-19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Harrison R.,Fish M.,110,N/A,499,N/A,6,4,4,6,7,6,,,,,2,1,Completed,1.18,4.5,1.22,4,1.22,4,1.27,4.18,,,1.3,4.6,1.22,4.14
+19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Harrison R.,Fish M.,110,,499,,6,4,4,6,7,6,,,,,2,1,Completed,1.18,4.5,1.22,4,1.22,4,1.27,4.18,,,1.3,4.6,1.22,4.14
 19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Troicki V.,68,39,730,1097,6,4,6,4,,,,,,,2,0,Completed,4.33,1.2,4,1.22,4,1.22,4.3,1.26,,,4.5,1.3,4.02,1.23
 19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Duckworth J.,Thiem D.,106,46,533,932,7,6,6,1,,,,,,,2,0,Completed,2.75,1.4,2.8,1.42,2.75,1.4,3.28,1.39,,,3.28,1.47,2.84,1.41
 19,Indian Wells,BNP Paribas Open,3/12/15,Masters 1000,Outdoor,Hard,1st Round,3,Mannarino A.,Zverev M.,38,1067,1113,9,6,4,6,4,,,,,,,2,0,Completed,1.28,3.5,1.3,3.4,1.3,3.4,1.33,3.64,,,1.35,3.75,1.3,3.42
@@ -835,7 +835,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 22,Houston,U.S. Men's Clay Court Championships,4/7/15,ATP250,Outdoor,Clay,1st Round,3,Chung H.,Arguello F.,118,138,476,389,6,3,7,5,,,,,,,2,0,Completed,1.9,1.8,1.9,1.82,2,1.73,1.92,1.97,,,2.1,2.05,1.9,1.86
 22,Houston,U.S. Men's Clay Court Championships,4/7/15,ATP250,Outdoor,Clay,1st Round,3,Giraldo S.,Dutra Silva R.,32,469,1230,80,6,2,6,2,,,,,,,2,0,Completed,1.22,4,1.22,3.9,1.22,4,1.24,4.55,,,1.25,4.72,1.22,4.09
 22,Houston,U.S. Men's Clay Court Championships,4/7/15,ATP250,Outdoor,Clay,1st Round,3,Johnson S.,Young D.,52,45,880,964,7,5,6,4,,,,,,,2,0,Completed,2.1,1.66,2.05,1.72,2,1.73,2.09,1.81,,,2.2,1.81,2.09,1.7
-22,Houston,U.S. Men's Clay Court Championships,4/7/15,ATP250,Outdoor,Clay,1st Round,3,Tipsarevic J.,Clezar G.,N/A,186,N/A,261,6,4,3,6,7,6,,,,,2,1,Completed,2.37,1.53,2.45,1.52,2.38,1.53,2.55,1.57,,,2.75,1.63,2.44,1.53
+22,Houston,U.S. Men's Clay Court Championships,4/7/15,ATP250,Outdoor,Clay,1st Round,3,Tipsarevic J.,Clezar G.,,186,,261,6,4,3,6,7,6,,,,,2,1,Completed,2.37,1.53,2.45,1.52,2.38,1.53,2.55,1.57,,,2.75,1.63,2.44,1.53
 22,Houston,U.S. Men's Clay Court Championships,4/8/15,ATP250,Outdoor,Clay,1st Round,3,Verdasco F.,Lorenzi P.,30,83,1260,624,6,3,4,3,,,,,,,1,0,Retired,1.16,5,1.17,4.6,1.17,4.5,1.25,4.36,,,1.25,5.25,1.19,4.43
 22,Houston,U.S. Men's Clay Court Championships,4/8/15,ATP250,Outdoor,Clay,1st Round,3,Sock J.,Souza J.,46,69,945,676,5,7,6,4,6,2,,,,,2,1,Completed,1.53,2.37,1.55,2.4,1.53,2.38,1.5,2.74,,,1.63,2.75,1.51,2.49
 22,Houston,U.S. Men's Clay Court Championships,4/8/15,ATP250,Outdoor,Clay,2nd Round,3,Chardy J.,Soeda G.,35,92,1155,584,6,3,6,3,,,,,,,2,0,Completed,1.1,7,1.11,6,1.12,5.5,1.13,7.11,,,1.13,7.68,1.1,6.5
@@ -843,7 +843,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 22,Houston,U.S. Men's Clay Court Championships,4/8/15,ATP250,Outdoor,Clay,2nd Round,3,Querrey S.,Johnson S.,42,52,1040,880,6,1,4,6,6,0,,,,,2,1,Completed,1.66,2.1,1.7,2.1,1.62,2.2,1.71,2.27,,,1.76,2.3,1.67,2.14
 22,Houston,U.S. Men's Clay Court Championships,4/9/15,ATP250,Outdoor,Clay,2nd Round,3,Lopez F.,Groth S.,12,93,2380,578,6,3,6,3,,,,,,,2,0,Completed,1.3,3.4,1.33,3.2,1.33,3.25,1.36,3.45,,,1.37,3.5,1.31,3.28
 22,Houston,U.S. Men's Clay Court Championships,4/9/15,ATP250,Outdoor,Clay,2nd Round,3,Sock J.,Bautista R.,46,15,945,1940,6,4,6,4,,,,,,,2,0,Completed,2.25,1.57,2.25,1.6,2.25,1.57,2.35,1.67,,,2.4,1.7,2.28,1.6
-22,Houston,U.S. Men's Clay Court Championships,4/9/15,ATP250,Outdoor,Clay,2nd Round,3,Giraldo S.,Tipsarevic J.,32,N/A,1230,N/A,7,6,6,3,,,,,,,2,0,Completed,1.25,3.75,1.28,3.5,1.29,3.5,1.29,4.01,,,1.34,4.01,1.29,3.47
+22,Houston,U.S. Men's Clay Court Championships,4/9/15,ATP250,Outdoor,Clay,2nd Round,3,Giraldo S.,Tipsarevic J.,32,,1230,,7,6,6,3,,,,,,,2,0,Completed,1.25,3.75,1.28,3.5,1.29,3.5,1.29,4.01,,,1.34,4.01,1.29,3.47
 22,Houston,U.S. Men's Clay Court Championships,4/10/15,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Chung H.,30,118,1260,476,7,6,6,2,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.25,4.46,,,1.29,4.7,1.23,3.99
 22,Houston,U.S. Men's Clay Court Championships,4/10/15,ATP250,Outdoor,Clay,2nd Round,3,Gabashvili T.,Isner J.,79,19,632,1720,6,2,7,6,,,,,,,2,0,Completed,3.75,1.25,3.4,1.3,3.4,1.3,3.93,1.3,,,4,1.33,3.54,1.28
 22,Houston,U.S. Men's Clay Court Championships,4/11/15,ATP250,Outdoor,Clay,Quarterfinals,3,Anderson K.,Chardy J.,16,35,1915,1155,7,5,6,7,7,6,,,,,2,1,Completed,1.53,2.37,1.58,2.35,1.57,2.25,1.63,2.47,,,1.67,2.47,1.6,2.3
@@ -855,7 +855,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 22,Houston,U.S. Men's Clay Court Championships,4/12/15,ATP250,Outdoor,Clay,The Final,3,Sock J.,Querrey S.,46,42,945,1040,7,6,7,6,,,,,,,2,0,Completed,1.8,2,1.82,1.9,1.8,2,1.88,2.04,,,1.95,2.04,1.84,1.94
 23,Monte Carlo,Monte Carlo Masters,4/12/15,Masters 1000,Outdoor,Clay,1st Round,3,Estrella Burgos V.,Bolelli S.,55,49,861,931,6,4,7,6,,,,,,,2,0,Completed,3.25,1.33,3.1,1.35,3,1.36,3.22,1.4,,,3.75,1.4,3.12,1.35
 23,Monte Carlo,Monte Carlo Masters,4/12/15,Masters 1000,Outdoor,Clay,1st Round,3,Tomic B.,Rosol L.,26,31,1365,1220,4,6,6,2,6,3,,,,,2,1,Completed,2.2,1.61,2.2,1.65,2,1.73,2.27,1.71,,,2.27,1.75,2.13,1.68
-23,Monte Carlo,Monte Carlo Masters,4/12/15,Masters 1000,Outdoor,Clay,1st Round,3,Mayer F.,Youzhny M.,N/A,58,N/A,825,7,6,6,4,,,,,,,2,0,Completed,3.4,1.3,3.1,1.35,3.4,1.3,3.39,1.37,,,3.5,1.37,3.23,1.33
+23,Monte Carlo,Monte Carlo Masters,4/12/15,Masters 1000,Outdoor,Clay,1st Round,3,Mayer F.,Youzhny M.,,58,,825,7,6,6,4,,,,,,,2,0,Completed,3.4,1.3,3.1,1.35,3.4,1.3,3.39,1.37,,,3.5,1.37,3.23,1.33
 23,Monte Carlo,Monte Carlo Masters,4/13/15,Masters 1000,Outdoor,Clay,1st Round,3,Haider-Maurer A.,Gulbis E.,52,17,876,1910,6,1,6,0,,,,,,,2,0,Completed,2.5,1.5,2.35,1.58,2.25,1.57,2.8,1.5,,,2.8,1.62,2.43,1.54
 23,Monte Carlo,Monte Carlo Masters,4/13/15,Masters 1000,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Kukushkin M.,25,53,1395,867,6,4,6,4,,,,,,,2,0,Completed,1.28,3.5,1.25,3.75,1.3,3.4,1.29,3.97,,,1.32,4,1.28,3.57
 23,Monte Carlo,Monte Carlo Masters,4/13/15,Masters 1000,Outdoor,Clay,1st Round,3,Dolgopolov O.,Coric B.,71,54,670,862,7,5,5,7,6,2,,,,,2,1,Completed,1.33,3.25,1.28,3.5,1.33,3.25,1.33,3.7,,,1.4,3.72,1.31,3.33
@@ -880,7 +880,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 23,Monte Carlo,Monte Carlo Masters,4/14/15,Masters 1000,Outdoor,Clay,2nd Round,3,Djokovic N.,Ramos-Vinolas A.,1,67,13205,742,6,1,6,4,,,,,,,2,0,Completed,1.02,19,1.02,11.5,1.02,11,1.05,13,,,1.05,19.5,1.02,13.4
 23,Monte Carlo,Monte Carlo Masters,4/14/15,Masters 1000,Outdoor,Clay,2nd Round,3,Ferrer D.,Estrella Burgos V.,7,55,4670,861,6,2,2,0,,,,,,,1,0,Retired,1.07,9,1.07,8,1.06,8,1.07,11.25,,,1.08,11.25,1.06,8.58
 23,Monte Carlo,Monte Carlo Masters,4/14/15,Masters 1000,Outdoor,Clay,2nd Round,3,Haider-Maurer A.,Tomic B.,52,26,876,1365,6,7,7,6,6,4,,,,,2,1,Completed,2.1,1.66,2.1,1.7,1.91,1.8,2.3,1.69,,,2.3,1.89,2.07,1.73
-23,Monte Carlo,Monte Carlo Masters,4/14/15,Masters 1000,Outdoor,Clay,2nd Round,3,Cilic M.,Mayer F.,10,N/A,3360,N/A,6,3,3,6,6,3,,,,,2,1,Completed,1.4,2.75,1.42,2.8,1.36,3,1.43,3.05,,,1.45,3.1,1.41,2.81
+23,Monte Carlo,Monte Carlo Masters,4/14/15,Masters 1000,Outdoor,Clay,2nd Round,3,Cilic M.,Mayer F.,10,,3360,,6,3,3,6,6,3,,,,,2,1,Completed,1.4,2.75,1.42,2.8,1.36,3,1.43,3.05,,,1.45,3.1,1.41,2.81
 23,Monte Carlo,Monte Carlo Masters,4/15/15,Masters 1000,Outdoor,Clay,2nd Round,3,Berdych T.,Stakhovsky S.,8,50,4510,894,6,4,7,6,,,,,,,2,0,Completed,1.08,8,1.1,6.5,1.07,7.5,1.09,9.16,,,1.12,91.6,1.09,7.24
 23,Monte Carlo,Monte Carlo Masters,4/15/15,Masters 1000,Outdoor,Clay,2nd Round,3,Bautista R.,Kohlschreiber P.,16,25,1940,1395,6,7,6,3,7,6,,,,,2,1,Completed,1.61,2.2,1.65,2.2,1.67,2.1,1.72,2.25,,,1.72,2.35,1.65,2.19
 23,Monte Carlo,Monte Carlo Masters,4/15/15,Masters 1000,Outdoor,Clay,2nd Round,3,Robredo T.,Granollers M.,20,63,1720,765,6,1,6,1,,,,,,,2,0,Completed,1.28,3.5,1.3,3.4,1.3,3.4,1.32,3.72,,,1.32,3.85,1.29,3.51
@@ -1390,7 +1390,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Zverev A.,Pavic M.,84,404,609,106,3,6,6,2,6,3,,,,,2,1,Completed,1.61,2.2,1.68,2.15,1.62,2.2,1.67,2.33,,,1.74,2.33,1.66,2.17
 35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Seppi A.,Becker B.,45,43,1020,1045,6,1,6,2,,,,,,,2,0,Completed,2,1.72,2.05,1.72,2,1.73,2.33,1.67,,,2.33,1.8,2.12,1.7
 35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Groth S.,Stakhovsky S.,66,49,753,929,4,6,7,5,5,3,,,,,1,1,Retired,2.2,1.61,2.25,1.62,2.1,1.67,2.16,1.76,,,2.25,1.76,2.12,1.69
-35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Haas T.,Kukushkin M.,N/A,59,N/A,802,6,4,7,5,,,,,,,2,0,Completed,1.66,2.1,1.68,2.15,1.73,2,1.7,2.26,,,1.74,2.4,1.68,2.15
+35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Haas T.,Kukushkin M.,,59,,802,6,4,7,5,,,,,,,2,0,Completed,1.66,2.1,1.68,2.15,1.73,2,1.7,2.26,,,1.74,2.4,1.68,2.15
 35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Bachinger M.,Gojowczyk P.,116,148,466,361,7,5,7,5,,,,,,,2,0,Completed,2.1,1.66,2.15,1.68,2,1.73,2.07,1.83,,,2.24,1.83,2.1,1.71
 35,Stuttgart,Mercedes Cup,6/9/15,ATP250,Outdoor,Grass,1st Round,3,Janowicz J.,Brown D.,50,104,895,507,6,7,6,4,6,3,,,,,2,1,Completed,2,1.72,1.9,1.82,1.83,1.83,1.9,1.99,,,2.1,1.99,1.96,1.81
 35,Stuttgart,Mercedes Cup,6/10/15,ATP250,Outdoor,Grass,2nd Round,3,Troicki V.,Zverev A.,28,84,1242,609,6,3,6,7,6,3,,,,,2,1,Completed,1.33,3.25,1.3,3.4,1.33,3.25,1.33,3.64,,,1.33,3.75,1.3,3.45
@@ -1398,7 +1398,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 35,Stuttgart,Mercedes Cup,6/10/15,ATP250,Outdoor,Grass,2nd Round,3,Groth S.,Lopez F.,66,14,753,2245,3,6,7,6,7,6,,,,,2,1,Completed,2.62,1.44,2.8,1.42,3,1.36,2.73,1.52,,,3.05,1.53,2.81,1.42
 35,Stuttgart,Mercedes Cup,6/10/15,ATP250,Outdoor,Grass,2nd Round,3,Kohlschreiber P.,Janowicz J.,29,50,1240,895,6,4,6,4,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.29,4.05,,,1.3,4.05,1.27,3.61
 35,Stuttgart,Mercedes Cup,6/11/15,ATP250,Outdoor,Grass,2nd Round,3,Zverev M.,Seppi A.,502,45,70,1020,6,2,6,4,,,,,,,2,0,Completed,2.62,1.44,2.5,1.5,2.5,1.5,2.69,1.53,,,2.8,1.63,2.59,1.48
-35,Stuttgart,Mercedes Cup,6/11/15,ATP250,Outdoor,Grass,2nd Round,3,Tomic B.,Haas T.,24,N/A,1355,N/A,7,6,6,2,,,,,,,2,0,Completed,1.44,2.62,1.48,2.6,1.44,2.62,1.45,2.97,,,1.53,2.97,1.48,2.6
+35,Stuttgart,Mercedes Cup,6/11/15,ATP250,Outdoor,Grass,2nd Round,3,Tomic B.,Haas T.,24,,1355,,7,6,6,2,,,,,,,2,0,Completed,1.44,2.62,1.48,2.6,1.44,2.62,1.45,2.97,,,1.53,2.97,1.48,2.6
 35,Stuttgart,Mercedes Cup,6/11/15,ATP250,Outdoor,Grass,2nd Round,3,Nadal R.,Baghdatis M.,10,63,2930,787,7,6,6,7,6,2,,,,,2,1,Completed,1.22,4,1.22,4,1.25,3.75,1.22,4.85,,,1.26,4.85,1.22,4.26
 35,Stuttgart,Mercedes Cup,6/11/15,ATP250,Outdoor,Grass,2nd Round,3,Cilic M.,Bachinger M.,9,116,3460,466,7,6,6,3,,,,,,,2,0,Completed,1.16,5,1.17,4.75,1.17,4.5,1.21,5.08,,,1.21,5.4,1.17,4.77
 35,Stuttgart,Mercedes Cup,6/12/15,ATP250,Outdoor,Grass,Quarterfinals,3,Monfils G.,Kohlschreiber P.,16,29,1885,1240,7,5,3,6,6,3,,,,,2,1,Completed,2.25,1.57,2.2,1.65,2.38,1.57,2.27,1.72,,,2.38,1.72,2.23,1.64
@@ -1559,7 +1559,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Seppi A.,Klein B.,27,177,1280,292,6,3,6,2,6,2,,,,,3,0,Completed,1.11,6.5,1.11,6,1.11,6,1.11,8.05,,,1.13,8.05,1.11,6.41
 39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Groth S.,Sock J.,69,31,743,1215,6,3,3,6,6,3,6,3,,,3,1,Completed,2.75,1.4,2.7,1.45,2.62,1.44,2.95,1.46,,,3,1.5,2.73,1.43
 39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Basilashvili N.,Bagnis F.,153,137,351,397,6,4,7,6,6,2,,,,,3,0,Completed,1.1,7,1.11,6,1.11,6,1.13,7.05,,,1.18,7.05,1.11,6.24
-39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Nadal R.,Bellucci T.,10,42,3135,1065,6,4,6,2,6,4,,,,,3,0,Completed,1.05,11,1.06,8.5,1.06,9,1.06,12.5,,,1.07,42136,1.05,9.8
+39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Nadal R.,Bellucci T.,10,42,3135,1065,6,4,6,2,6,4,,,,,3,0,Completed,1.05,11,1.06,8.5,1.06,9,1.06,12.5,,,1.07,42.136,1.05,9.8
 39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Fognini F.,Smyczek T.,28,77,1250,682,6,4,6,3,6,2,,,,,3,0,Completed,1.44,2.62,1.5,2.45,1.53,2.38,1.57,2.57,,,1.57,2.7,1.51,2.5
 39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Pospisil V.,Millot V.,56,213,870,234,7,6,3,6,6,7,7,6,6,3,3,2,Completed,1.28,3.5,1.28,3.5,1.3,3.4,1.31,3.83,,,1.36,3.83,1.29,3.5
 39,London,Wimbledon,6/30/15,Grand Slam,Outdoor,Grass,1st Round,5,Troicki V.,Nedovyesov A.,24,123,1494,457,6,1,6,4,3,6,6,3,,,3,1,Completed,1.08,8,1.09,7,1.11,6,1.09,9.16,,,1.11,9.16,1.09,7.37
@@ -1767,7 +1767,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 44,Atlanta,BB&T Atlanta Open,7/28/15,ATP250,Outdoor,Hard,1st Round,3,Groth S.,Tiafoe F.,62,274,773,173,7,6,6,4,,,,,,,2,0,Completed,1.25,3.75,1.28,3.5,1.29,3.5,1.28,4.05,,,1.29,4.5,1.26,3.73
 44,Atlanta,BB&T Atlanta Open,7/28/15,ATP250,Outdoor,Hard,1st Round,3,Sela D.,Fish M.,135,101,402,591,6,4,6,4,,,,,,,2,0,Completed,1.44,2.62,1.4,2.9,1.53,2.38,1.58,2.52,,,1.59,2.9,1.52,2.47
 44,Atlanta,BB&T Atlanta Open,7/29/15,ATP250,Outdoor,Hard,1st Round,3,Berankis R.,Smyczek T.,87,75,551,666,6,4,6,4,,,,,,,2,0,Completed,1.72,2,1.72,2.05,1.73,2,1.88,2.01,,,1.88,2.1,1.78,2.01
-44,Atlanta,BB&T Atlanta Open,7/29/15,ATP250,Outdoor,Hard,1st Round,3,Stepanek R.,Eubanks C.,290,N/A,162,N/A,6,2,6,2,,,,,,,2,0,Completed,1.02,17,1.01,13,1.04,9,1.04,14.8,,,1.05,17,1.03,12.96
+44,Atlanta,BB&T Atlanta Open,7/29/15,ATP250,Outdoor,Hard,1st Round,3,Stepanek R.,Eubanks C.,290,,162,,6,2,6,2,,,,,,,2,0,Completed,1.02,17,1.01,13,1.04,9,1.04,14.8,,,1.05,17,1.03,12.96
 44,Atlanta,BB&T Atlanta Open,7/29/15,ATP250,Outdoor,Hard,2nd Round,3,Muller G.,Donaldson J.,52,156,871,321,6,3,6,2,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.29,3.5,1.28,4.12,,,1.3,4.5,1.26,3.74
 44,Atlanta,BB&T Atlanta Open,7/29/15,ATP250,Outdoor,Hard,2nd Round,3,Pospisil V.,Lu Y.H.,29,76,1170,649,6,4,6,7,6,4,,,,,2,1,Completed,1.8,1.9,1.82,1.9,1.73,2,1.97,1.93,,,2,2,1.88,1.88
 44,Atlanta,BB&T Atlanta Open,7/29/15,ATP250,Outdoor,Hard,2nd Round,3,Soeda G.,Mannarino A.,114,27,480,1255,6,2,6,4,,,,,,,2,0,Completed,3.75,1.25,3.2,1.33,3.4,1.3,3.97,1.29,,,3.97,1.35,3.5,1.29

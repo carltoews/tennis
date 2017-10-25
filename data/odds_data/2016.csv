@@ -193,7 +193,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Bellucci T.,Thompson J.,37,143,1105,414,6,2,6,3,6,2,,,,,3,0,Completed,1.36,3,1.38,3,1.4,3,1.43,3.05,,,1.44,3.15,1.39,2.93
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Monfils G.,Sugita Y.,25,124,1485,481,6,1,6,3,6,2,,,,,3,0,Completed,1.08,8,1.11,6,1.08,8,1.11,8.27,,,1.12,8.27,1.1,6.98
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Mahut N.,Cecchinato M.,63,92,767,618,4,6,6,2,6,2,6,2,,,3,1,Completed,1.06,9,1.1,6,1.11,6.5,1.09,9.58,,,1.14,9.58,1.09,7.3
-6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Bolelli S.,Baker B.,64,N/A,765,N/A,7,6,7,6,6,7,7,6,,,3,1,Completed,1.1,7,1.09,6.5,1.08,8,1.13,7.04,,,1.13,8,1.1,6.89
+6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Bolelli S.,Baker B.,64,,765,,7,6,7,6,6,7,7,6,,,3,1,Completed,1.1,7,1.09,6.5,1.08,8,1.13,7.04,,,1.13,8,1.1,6.89
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Tomic B.,Istomin D.,17,59,1720,781,6,7,6,4,6,4,6,4,,,3,1,Completed,1.2,4.33,1.2,4.3,1.17,5,1.26,4.39,,,1.26,5,1.21,4.3
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Ferrer D.,Gojowczyk P.,8,223,4145,234,6,4,6,4,6,2,,,,,3,0,Completed,1.04,13,1.04,10,1.05,10,1.06,12.95,,,1.06,14,1.04,11.01
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Stepanek R.,Ito T.,188,125,272,477,6,4,6,3,6,7,6,2,,,3,1,Completed,1.3,3.4,1.28,3.4,1.33,3.4,1.34,3.56,,,1.37,3.6,1.32,3.3
@@ -201,7 +201,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Sock J.,Fritz T.,22,155,1525,372,6,4,3,6,0,6,6,3,6,4,3,2,Completed,1.44,2.62,1.42,2.7,1.5,2.62,1.53,2.7,,,1.58,2.9,1.46,2.67
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Troicki V.,Munoz-De La Nava D.,26,71,1475,718,4,6,4,6,6,1,7,6,6,3,3,2,Completed,1.12,6,1.12,5.75,1.11,6.5,1.14,6.7,,,1.15,7,1.12,6.08
 6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Hewitt L.,Duckworth J.,308,129,160,460,7,6,6,2,6,4,,,,,3,0,Completed,1.44,2.62,1.5,2.45,1.53,2.5,1.55,2.64,,,1.56,2.75,1.5,2.56
-6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Tursunov D.,4,N/A,6865,N/A,7,6,6,3,,,,,,,2,0,Retired,1.01,26,1.01,13,1.02,17,1.01,34,,,1.02,34,1.01,19.84
+6,Melbourne,Australian Open,1/19/16,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Tursunov D.,4,,6865,,7,6,6,3,,,,,,,2,0,Retired,1.01,26,1.01,13,1.02,17,1.01,34,,,1.02,34,1.01,19.84
 6,Melbourne,Australian Open,1/20/16,Grand Slam,Outdoor,Hard,2nd Round,5,Nishikori K.,Krajicek A.,7,103,4235,571,6,3,7,6,6,3,,,,,3,0,Completed,1.03,15,1.02,12,1.03,12,1.03,18.8,,,1.04,18.8,1.03,13.52
 6,Melbourne,Australian Open,1/20/16,Grand Slam,Outdoor,Hard,2nd Round,5,Goffin D.,Dzumhur D.,16,81,1835,661,6,4,0,6,6,4,6,2,,,3,1,Completed,1.04,13,1.04,10,1.05,10,1.05,13.89,,,1.06,14.92,1.04,11.09
 6,Melbourne,Australian Open,1/20/16,Grand Slam,Outdoor,Hard,2nd Round,5,Delbonis F.,Olivo R.,53,174,815,296,7,6,3,6,6,7,7,5,6,2,3,2,Completed,1.36,3,1.35,3.1,1.36,3.25,1.38,3.35,,,1.38,3.4,1.35,3.13
@@ -829,7 +829,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 22,Marrakech,Grand Prix Hassan II,4/4/16,ATP250,Outdoor,Clay,1st Round,3,Gonzalez M.,Munoz De La Nava D.,147,75,395,707,6,1,6,4,,,,,,,2,0,Completed,2.1,1.66,2,1.7,2.1,1.73,2.15,1.78,,,2.2,1.8,2.1,1.71
 22,Marrakech,Grand Prix Hassan II,4/4/16,ATP250,Outdoor,Clay,1st Round,3,Montanes A.,Skugor F.,123,151,478,380,6,4,6,4,,,,,,,2,0,Completed,1.83,1.83,1.82,1.82,2,1.8,2.16,1.77,,,2.17,1.91,1.97,1.8
 22,Marrakech,Grand Prix Hassan II,4/4/16,ATP250,Outdoor,Clay,1st Round,3,Bagnis F.,Ouahab L.,95,320,597,150,7,6,6,2,,,,,,,2,0,Completed,1.5,2.5,1.48,2.45,1.53,2.5,1.56,2.57,,,1.61,2.75,1.51,2.53
-22,Marrakech,Grand Prix Hassan II,4/4/16,ATP250,Outdoor,Clay,1st Round,3,Mektic N.,El Amrani R.,312,N/A,154,N/A,7,5,6,3,,,,,,,2,0,Completed,1.11,6.5,1.12,5,1.14,5.5,1.18,5.47,,,1.18,6.5,1.14,5.36
+22,Marrakech,Grand Prix Hassan II,4/4/16,ATP250,Outdoor,Clay,1st Round,3,Mektic N.,El Amrani R.,312,,154,,7,5,6,3,,,,,,,2,0,Completed,1.11,6.5,1.12,5,1.14,5.5,1.18,5.47,,,1.18,6.5,1.14,5.36
 22,Marrakech,Grand Prix Hassan II,4/5/16,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Giustino L.,72,257,717,204,7,6,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.75,1.44,2.75,1.53,2.67,,,1.53,2.8,1.45,2.69
 22,Marrakech,Grand Prix Hassan II,4/5/16,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Gabashvili T.,102,51,569,903,6,3,6,4,,,,,,,2,0,Completed,1.9,1.8,1.85,1.8,2.1,1.73,1.99,1.9,,,2.1,1.91,1.95,1.85
 22,Marrakech,Grand Prix Hassan II,4/5/16,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Cervantes I.,55,56,840,837,6,1,6,3,,,,,,,2,0,Completed,1.8,1.9,1.8,1.85,1.91,1.91,1.85,2.05,,,2,2.05,1.85,1.94
@@ -1384,7 +1384,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 35,Stuttgart,Mercedes Cup,6/6/16,ATP250,Outdoor,Grass,1st Round,3,Groth S.,Marchenko I.,115,73,520,726,7,5,6,4,,,,,,,2,0,Completed,1.8,1.9,1.8,1.9,1.8,1.91,1.81,2.1,,,1.85,2.12,1.79,2
 35,Stuttgart,Mercedes Cup,6/6/16,ATP250,Outdoor,Grass,1st Round,3,Berrer M.,Jaziri M.,121,63,506,787,6,7,6,2,6,4,,,,,2,1,Completed,1.72,2,1.8,1.9,1.73,2.1,1.76,2.16,,,1.8,2.18,1.74,2.08
 35,Stuttgart,Mercedes Cup,6/7/16,ATP250,Outdoor,Grass,1st Round,3,Mayer F.,Troicki V.,226,21,229,1670,6,4,7,6,,,,,,,2,0,Completed,2.62,1.44,2.45,1.48,2.5,1.53,3,1.44,,,3,1.53,2.7,1.45
-35,Stuttgart,Mercedes Cup,6/7/16,ATP250,Outdoor,Grass,1st Round,3,Fritz T.,Martin F.,65,N/A,768,N/A,3,6,7,6,6,1,,,,,2,1,Completed,1.28,3.5,1.25,3.3,1.33,3.4,1.3,3.82,,,1.33,3.82,1.3,3.44
+35,Stuttgart,Mercedes Cup,6/7/16,ATP250,Outdoor,Grass,1st Round,3,Fritz T.,Martin F.,65,,768,,3,6,7,6,6,1,,,,,2,1,Completed,1.28,3.5,1.25,3.3,1.33,3.4,1.3,3.82,,,1.33,3.82,1.3,3.44
 35,Stuttgart,Mercedes Cup,6/7/16,ATP250,Outdoor,Grass,1st Round,3,Stepanek R.,Istomin D.,129,64,449,771,7,5,3,6,6,3,,,,,2,1,Completed,1.44,2.62,1.45,2.55,1.44,2.75,1.45,2.94,,,1.48,2.94,1.44,2.73
 35,Stuttgart,Mercedes Cup,6/7/16,ATP250,Outdoor,Grass,1st Round,3,Millman J.,Pouille L.,66,29,758,1311,6,7,6,3,6,4,,,,,2,1,Completed,1.61,2.2,1.68,2,1.67,2.2,1.68,2.3,,,1.69,2.4,1.65,2.2
 35,Stuttgart,Mercedes Cup,6/7/16,ATP250,Outdoor,Grass,1st Round,3,Kudla D.,Lajovic D.,56,80,858,691,6,0,6,2,,,,,,,2,0,Completed,1.28,3.5,1.28,3.3,1.29,3.75,1.32,3.67,,,1.33,3.85,1.29,3.52
@@ -1674,7 +1674,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Mathieu P.H.,Melzer G.,66,108,780,575,6,4,7,6,,,,,,,2,0,Completed,1.53,2.37,1.52,2.25,1.53,2.38,1.51,2.73,,,1.62,2.79,1.51,2.5
 41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Cuevas P.,Mayer F.,24,77,1555,706,6,4,6,3,,,,,,,2,0,Completed,1.28,3.5,1.28,3,1.36,3.25,1.3,3.82,,,1.36,3.82,1.31,3.38
 41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Kicker N.,Fabbiano T.,144,113,388,544,6,3,5,7,6,1,,,,,2,1,Completed,1.53,2.37,1.48,2.35,1.57,2.38,1.68,2.3,,,1.68,2.45,1.59,2.31
-41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Zemlja G.,Moeller M.,151,N/A,370,N/A,6,1,6,2,,,,,,,2,0,Completed,1.12,6,1.1,5.25,1.11,6.5,1.16,6.02,,,1.16,6.5,1.13,5.75
+41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Zemlja G.,Moeller M.,151,,370,,6,1,6,2,,,,,,,2,0,Completed,1.12,6,1.1,5.25,1.11,6.5,1.16,6.02,,,1.16,6.5,1.13,5.75
 41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Almagro N.,Satral J.,44,206,979,260,6,3,3,6,6,2,,,,,2,1,Completed,1.14,5.5,1.12,4.75,1.14,5,1.18,5.85,,,1.19,5.85,1.15,5.15
 41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Gonzalez M.,Chardy J.,142,34,398,1210,6,2,2,6,7,6,,,,,2,1,Completed,3.75,1.25,3.5,1.22,4,1.25,3.9,1.29,,,4.05,1.29,3.77,1.26
 41,Hamburg,German Tennis Championships,7/11/16,ATP500,Outdoor,Clay,1st Round,3,Monteiro T.,Zverev M.,123,141,481,398,7,6,6,4,,,,,,,2,0,Completed,1.9,1.8,1.88,1.75,2,1.8,1.68,2.25,,,2,2.25,1.92,1.85
@@ -1684,7 +1684,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Robert S.,Mayer L.,83,109,680,570,7,6,6,4,,,,,,,2,0,Completed,2.37,1.53,2.3,1.48,2.25,1.57,2.61,1.55,,,2.66,1.59,2.45,1.53
 41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Garcia-Lopez G.,De Schepper K.,56,159,855,350,5,7,6,2,7,6,,,,,2,1,Completed,1.28,3.5,1.22,3.3,1.3,3.5,1.31,3.73,,,1.31,4,1.28,3.58
 41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Berlocq C.,22,87,1600,657,6,3,6,7,6,3,,,,,2,1,Completed,1.18,4.5,1.16,4.1,1.2,4.5,1.2,5.13,,,1.24,5.13,1.19,4.49
-41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Wessels L.,Diez S.,N/A,200,N/A,271,5,7,6,2,6,1,,,,,2,1,Completed,9,1.07,6.25,1.05,8,1.08,9.94,1.08,,,10.25,1.1,8.52,1.06
+41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Wessels L.,Diez S.,,200,,271,5,7,6,2,6,1,,,,,2,1,Completed,9,1.07,6.25,1.05,8,1.08,9.94,1.08,,,10.25,1.1,8.52,1.06
 41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Cervantes I.,Zverev A.,82,27,688,1430,7,5,7,6,,,,,,,2,0,Completed,5,1.16,4.75,1.13,5.5,1.14,6.22,1.15,,,6.48,1.17,5.5,1.14
 41,Hamburg,German Tennis Championships,7/12/16,ATP500,Outdoor,Clay,1st Round,3,Medvedev D.,Struff J.L.,215,86,251,661,6,4,5,7,6,4,,,,,2,1,Completed,3,1.36,2.65,1.35,3,1.4,2.83,1.48,,,3,1.48,2.83,1.41
 41,Hamburg,German Tennis Championships,7/13/16,ATP500,Outdoor,Clay,2nd Round,3,Olivo R.,Gonzalez M.,153,142,367,398,6,3,6,4,,,,,,,2,0,Completed,2.25,1.57,2.3,1.48,2.5,1.53,2.5,1.6,,,2.52,1.62,2.4,1.56
@@ -1693,7 +1693,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 41,Hamburg,German Tennis Championships,7/13/16,ATP500,Outdoor,Clay,2nd Round,3,Mathieu P.H.,Almagro N.,66,44,780,979,4,6,7,6,7,5,,,,,2,1,Completed,3.5,1.28,3.3,1.25,3.5,1.3,3.12,1.4,,,3.8,1.4,3.46,1.3
 41,Hamburg,German Tennis Championships,7/14/16,ATP500,Outdoor,Clay,2nd Round,3,Robert S.,Cervantes I.,83,82,680,688,7,5,4,6,6,1,,,,,2,1,Completed,2,1.72,2.1,1.6,2.2,1.67,2.09,1.83,,,2.3,1.9,2.1,1.72
 41,Hamburg,German Tennis Championships,7/14/16,ATP500,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Zemlja G.,56,151,855,370,6,2,6,2,,,,,,,2,0,Completed,1.12,6,1.15,4.3,1.14,5.5,1.11,7.93,,,1.17,7.93,1.13,5.77
-41,Hamburg,German Tennis Championships,7/14/16,ATP500,Outdoor,Clay,2nd Round,3,Klizan M.,Wessels L.,47,N/A,943,N/A,6,1,6,1,,,,,,,2,0,Completed,1.06,10,1.04,6.5,1.06,9,1.07,11.51,,,1.07,11.75,1.05,9.52
+41,Hamburg,German Tennis Championships,7/14/16,ATP500,Outdoor,Clay,2nd Round,3,Klizan M.,Wessels L.,47,,943,,6,1,6,1,,,,,,,2,0,Completed,1.06,10,1.04,6.5,1.06,9,1.07,11.51,,,1.07,11.75,1.05,9.52
 41,Hamburg,German Tennis Championships,7/14/16,ATP500,Outdoor,Clay,2nd Round,3,Gimeno-Traver D.,Medvedev D.,156,215,364,251,5,7,7,6,7,6,,,,,2,1,Completed,1.83,1.83,1.75,1.85,1.91,1.91,2.02,1.88,,,2.05,1.91,1.95,1.83
 41,Hamburg,German Tennis Championships,7/15/16,ATP500,Outdoor,Clay,Quarterfinals,3,Cuevas P.,Mathieu P.H.,24,66,1555,780,7,6,6,1,,,,,,,2,0,Completed,1.14,5.5,1.15,4.2,1.17,5,1.17,6.17,,,1.18,6.17,1.15,5.28
 41,Hamburg,German Tennis Championships,7/15/16,ATP500,Outdoor,Clay,Quarterfinals,3,Robert S.,Garcia-Lopez G.,83,56,680,855,7,6,4,6,6,3,,,,,2,1,Completed,2.62,1.44,2.4,1.45,2.62,1.5,2.78,1.52,,,2.78,1.53,2.63,1.47
@@ -1923,7 +1923,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 48,Atlanta,BB&T Atlanta Open,8/2/16,ATP250,Outdoor,Hard,1st Round,3,Benneteau J.,Smith J.P.,406,219,104,248,6,4,6,2,,,,,,,2,0,Completed,1.72,2,1.65,1.95,1.73,2.1,1.83,2.08,,,1.83,2.2,1.73,2.07
 48,Atlanta,BB&T Atlanta Open,8/2/16,ATP250,Outdoor,Hard,1st Round,3,Kamke T.,Stakhovsky S.,127,89,470,670,7,6,7,6,,,,,,,2,0,Completed,2.5,1.5,2.35,1.45,2.62,1.5,,,,,2.62,1.57,2.49,1.5
 48,Atlanta,BB&T Atlanta Open,8/2/16,ATP250,Outdoor,Hard,1st Round,3,Verdasco F.,Lajovic D.,48,70,950,761,7,6,6,4,,,,,,,2,0,Completed,1.18,4.5,1.18,3.9,1.2,4.5,1.24,4.5,,,1.24,4.75,1.2,4.35
-48,Atlanta,BB&T Atlanta Open,8/3/16,ATP250,Outdoor,Hard,1st Round,3,Fritz T.,Smith A.,60,N/A,811,N/A,6,2,6,2,,,,,,,2,0,Completed,1.02,17,1.02,8,1.02,15,1.04,14.8,,,1.04,21.25,1.02,15.03
+48,Atlanta,BB&T Atlanta Open,8/3/16,ATP250,Outdoor,Hard,1st Round,3,Fritz T.,Smith A.,60,,811,,6,2,6,2,,,,,,,2,0,Completed,1.02,17,1.02,8,1.02,15,1.04,14.8,,,1.04,21.25,1.02,15.03
 48,Atlanta,BB&T Atlanta Open,8/3/16,ATP250,Outdoor,Hard,2nd Round,3,Opelka R.,Anderson K.,837,28,20,1470,6,7,6,3,7,5,,,,,2,1,Completed,6,1.12,5.1,1.1,6,1.12,7.51,1.12,,,7.51,1.17,6.13,1.12
 48,Atlanta,BB&T Atlanta Open,8/3/16,ATP250,Outdoor,Hard,2nd Round,3,Young D.,Smyczek T.,53,116,887,523,4,6,7,6,6,3,,,,,2,1,Completed,1.4,2.75,1.42,2.5,1.44,2.75,1.53,2.71,,,1.54,3,1.46,2.65
 48,Atlanta,BB&T Atlanta Open,8/4/16,ATP250,Outdoor,Hard,2nd Round,3,Isner J.,Mannarino A.,17,67,1895,775,6,4,6,0,,,,,,,2,0,Completed,1.12,6,1.17,4,1.2,4.5,1.07,10.91,,,1.22,10.91,1.16,5.39
@@ -2124,7 +2124,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Del Potro J.M.,Schwartzman D.,142,69,410,746,6,4,6,4,7,6,,,,,3,0,Completed,1.04,11,1.05,6.25,1.06,9,1.06,13.02,,,1.08,13.75,1.06,9.26
 52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Young D.,Struff J.L.,56,78,817,694,6,3,7,5,4,6,7,5,,,3,1,Completed,1.36,3,1.35,2.7,1.4,3,1.4,3.22,,,1.4,3.26,1.37,3.04
 52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Johnson S.,Donskoy E.,22,79,1635,691,4,6,1,6,7,6,6,3,6,3,3,2,Completed,1.12,6,1.12,4.75,1.14,5.5,1.14,6.65,,,1.15,7,1.13,5.95
-52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Millman J.,10,66,3205,760,6,3,2,6,5,7,6,4,6,3,3,2,Completed,1.2,4.33,1.2,3.5,1.22,4.33,1.23,4.77,,,1.24,42586,1.2,4.37
+52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Millman J.,10,66,3205,760,6,3,2,6,5,7,6,4,6,3,3,2,Completed,1.2,4.33,1.2,3.5,1.22,4.33,1.23,4.77,,,1.24,42.586,1.2,4.37
 52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Granollers M.,Monaco J.,45,94,1011,620,7,6,7,6,6,4,,,,,3,0,Completed,1.61,2.2,1.58,2.1,1.62,2.25,1.75,2.2,,,1.75,2.3,1.66,2.2
 52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Simon G.,Stepanek R.,31,113,1385,541,6,3,6,1,6,4,,,,,3,0,Completed,1.66,2.1,1.58,2.1,1.73,2.1,1.75,2.2,,,1.83,2.2,1.72,2.11
 52,New York,US Open,8/30/16,Grand Slam,Outdoor,Hard,1st Round,5,Lorenzi P.,Berlocq C.,40,76,1110,702,6,4,6,2,6,1,,,,,3,0,Completed,1.44,2.62,1.45,2.35,1.53,2.5,1.56,2.59,,,1.57,2.62,1.52,2.52

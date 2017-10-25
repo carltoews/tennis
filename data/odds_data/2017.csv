@@ -95,7 +95,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 4,Auckland,ASB Classic,1/9/17,ATP250,Outdoor,Hard,1st Round,3,Sousa J.,Ramos-Vinolas A.,44,26,1030,1435,6,1,7,5,,,,,,,2,0,Completed,2.1,1.66,1.95,1.65,2.1,1.67,2.23,1.72,,,2.25,1.74,2.14,1.68
 4,Auckland,ASB Classic,1/10/17,ATP250,Outdoor,Hard,1st Round,3,Lu Y.H.,Khachanov K.,61,51,774,875,4,6,7,6,7,6,,,,,2,1,Completed,2,1.72,1.88,1.72,2,1.8,2.15,1.78,,,2.2,1.86,2.03,1.76
 4,Auckland,ASB Classic,1/10/17,ATP250,Outdoor,Hard,1st Round,3,Baghdatis M.,Mannarino A.,36,60,1140,781,6,4,6,4,,,,,,,2,0,Completed,2.25,1.57,2.1,1.55,2.38,1.57,2.26,1.7,,,2.38,1.7,2.22,1.64
-4,Auckland,ASB Classic,1/10/17,ATP250,Outdoor,Hard,1st Round,3,Chardy J.,Sitak A.,71,N/A,705,N/A,6,4,6,2,,,,,,,2,0,Completed,1.05,11,1.03,7.25,1.05,10,1.09,8.95,,,1.09,11,1.06,8.96
+4,Auckland,ASB Classic,1/10/17,ATP250,Outdoor,Hard,1st Round,3,Chardy J.,Sitak A.,71,,705,,6,4,6,2,,,,,,,2,0,Completed,1.05,11,1.03,7.25,1.05,10,1.09,8.95,,,1.09,11,1.06,8.96
 4,Auckland,ASB Classic,1/10/17,ATP250,Outdoor,Hard,2nd Round,3,Haase R.,Ferrer D.,58,21,795,1785,2,6,6,4,7,6,,,,,2,1,Completed,4.33,1.2,3.5,1.22,4,1.25,4.65,1.24,,,4.65,1.28,4.12,1.23
 4,Auckland,ASB Classic,1/11/17,ATP250,Outdoor,Hard,2nd Round,3,Sousa J.,Klein B.,44,324,1030,148,6,3,6,4,,,,,,,2,0,Completed,1.28,3.5,1.25,3.1,1.29,3.75,1.27,4.18,,,1.3,4.18,1.26,3.74
 4,Auckland,ASB Classic,1/11/17,ATP250,Outdoor,Hard,2nd Round,3,Johnson S.,Lu Y.H.,33,61,1320,774,6,4,7,6,,,,,,,2,0,Completed,1.72,2,1.68,1.95,1.73,2.1,1.81,2.11,,,1.81,2.13,1.76,2.03
@@ -196,7 +196,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Escobedo E.,Medvedev D.,131,63,455,751,7,5,4,6,7,6,6,1,,,3,1,Completed,2.75,1.44,2.65,1.38,2.75,1.44,2.75,1.51,,,2.9,1.51,2.77,1.44
 6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Chung H.,Olivo R.,105,79,583,693,6,2,6,3,6,2,,,,,3,0,Completed,1.2,4.5,1.18,3.8,1.2,4.33,1.23,4.77,,,1.24,4.77,1.2,4.36
 6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Ferrer D.,Jasika O.,23,290,1740,172,6,3,6,0,6,2,,,,,3,0,Completed,1.16,5,1.1,5.25,1.14,5.5,1.19,5.35,,,1.19,5.5,1.15,5.14
-6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Paire B.,Haas T.,47,N/A,960,N/A,7,6,6,4,,,,,,,2,0,Retired,1.22,4.33,1.15,4.3,1.22,4,1.27,4.22,,,1.27,4.5,1.22,4.16
+6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Paire B.,Haas T.,47,,960,,7,6,6,4,,,,,,,2,0,Retired,1.22,4.33,1.15,4.3,1.22,4,1.27,4.22,,,1.27,4.5,1.22,4.16
 6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Monfils G.,Vesely J.,6,53,3625,873,6,2,6,3,6,2,,,,,3,0,Completed,1.3,3.5,1.22,3.3,1.3,3.5,1.31,3.85,,,1.33,4.15,1.28,3.58
 6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Fognini F.,Lopez F.,48,29,945,1410,7,5,6,3,7,5,,,,,3,0,Completed,2.2,1.66,1.95,1.65,2.1,1.67,2.32,1.68,,,2.32,1.8,2.15,1.68
 6,Melbourne,Australian Open,1/17/17,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,O'Connell C.,15,231,2135,228,7,6,6,3,6,3,,,,,3,0,Completed,1.02,15,1.01,8.75,1.03,10,1.02,22.73,,,1.05,22.73,1.02,14.01
@@ -563,7 +563,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Copil M.,Struff J.L.,124,59,467,786,6,4,6,2,,,,,,,2,0,Completed,1.72,2,1.7,2,1.8,2,1.76,2.16,,,1.8,2.23,1.7,2.12
 17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Evans D.,Brown D.,43,81,971,651,6,2,6,3,,,,,,,2,0,Completed,1.36,3,1.4,2.75,1.4,3,1.41,3.14,,,1.45,3.25,1.38,2.98
 17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Pouille L.,Pavlasek A.,15,93,2261,604,6,2,6,2,,,,,,,2,0,Completed,1.2,4.33,1.25,3.5,1.22,4.33,1.27,4.17,,,1.27,4.33,1.23,4.1
-17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Medvedev D.,Alawadhi O.,57,N/A,797,N/A,6,2,7,5,,,,,,,2,0,Completed,1.002,41,1,12,1.01,26,1.01,25.62,,,1.01,47.25,1.01,21.53
+17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Medvedev D.,Alawadhi O.,57,,797,,6,2,7,5,,,,,,,2,0,Completed,1.002,41,1,12,1.01,26,1.01,25.62,,,1.01,47.25,1.01,21.53
 17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Haase R.,Istomin D.,66,68,763,723,6,2,6,4,,,,,,,2,0,Completed,2.25,1.57,2.2,1.6,2.25,1.62,2.37,1.65,,,2.37,1.68,2.25,1.63
 17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Murray A.,Jaziri M.,1,51,11540,883,6,4,6,1,,,,,,,2,0,Completed,1.04,13,1.02,9.5,1.04,11,1.05,13.85,,,1.05,16.5,1.03,12.06
 17,Dubai ,Dubai Tennis Championships,2/28/17,ATP500,Outdoor,Hard,1st Round,3,Berdych T.,Rosol L.,14,161,2790,374,6,3,2,1,,,,,,,1,0,Retired,1.11,6.5,1.12,5,1.12,6,1.12,7.5,,,1.13,7.5,1.11,6.41
@@ -1206,7 +1206,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 32,Lyon,Lyon Open,5/22/17,ATP250,Outdoor,Clay,1st Round,3,Chung H.,Young D.,68,51,749,910,6,2,6,3,,,,,,,2,0,Completed,1.28,3.5,1.27,3.45,1.3,3.5,1.3,3.82,,,1.33,3.85,1.29,3.57
 32,Lyon,Lyon Open,5/22/17,ATP250,Outdoor,Clay,1st Round,3,Kicker N.,Brown D.,94,75,575,685,6,4,6,4,,,,,,,2,0,Completed,2.1,1.66,2,1.72,2,1.8,2.02,1.87,,,2.12,1.87,2.04,1.76
 32,Lyon,Lyon Open,5/22/17,ATP250,Outdoor,Clay,1st Round,3,Elias G.,Albot R.,125,86,455,613,2,6,6,4,6,2,,,,,2,1,Completed,1.61,2.2,1.6,2.2,1.57,2.38,1.65,2.37,,,1.67,2.38,1.61,2.29
-32,Lyon,Lyon Open,5/22/17,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Kokkinakis T.,81,N/A,649,N/A,6,3,6,4,,,,,,,2,0,Completed,1.5,2.5,1.55,2.3,1.53,2.5,1.67,2.33,,,1.67,2.5,1.58,2.35
+32,Lyon,Lyon Open,5/22/17,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Kokkinakis T.,81,,649,,6,3,6,4,,,,,,,2,0,Completed,1.5,2.5,1.55,2.3,1.53,2.5,1.67,2.33,,,1.67,2.5,1.58,2.35
 32,Lyon,Lyon Open,5/22/17,ATP250,Outdoor,Clay,1st Round,3,Simon G.,Medvedev D.,32,65,1175,782,7,5,6,7,6,2,,,,,2,1,Completed,1.3,3.4,1.3,3.2,1.33,3.4,1.34,3.57,,,1.38,3.78,1.31,3.39
 32,Lyon,Lyon Open,5/23/17,ATP250,Outdoor,Clay,1st Round,3,Khachanov K.,Olivo R.,54,91,860,587,6,2,6,4,,,,,,,2,0,Completed,1.22,4,1.21,3.95,1.2,4.5,1.23,4.67,,,1.23,4.85,1.2,4.42
 32,Lyon,Lyon Open,5/23/17,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Sandgren T.,63,112,799,494,6,2,6,4,,,,,,,2,0,Completed,1.25,3.75,1.23,3.75,1.29,3.75,1.26,4.25,,,1.3,4.33,1.25,3.9
@@ -1281,7 +1281,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Almagro N.,Baghdatis M.,69,62,755,825,6,7,6,4,6,3,7,6,,,3,1,Completed,1.44,2.75,1.38,2.8,1.44,2.75,1.45,3,,,1.48,3.1,1.43,2.83
 33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Verdasco F.,Zverev A.,37,10,1085,3150,6,4,3,6,6,4,6,2,,,3,1,Completed,5,1.16,4.6,1.16,5,1.17,5.23,1.2,,,5.38,1.2,4.92,1.17
 33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Khachanov K.,Jarry N.,53,207,896,262,6,4,3,6,7,6,6,1,,,3,1,Completed,1.28,3.75,1.19,4.2,1.25,4,1.29,4.05,,,1.29,5,1.22,4.27
-33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Nishikori K.,Kokkinakis T.,9,N/A,3650,N/A,4,6,6,1,6,4,6,4,,,3,1,Completed,1.02,17,1.01,11.5,1.03,11,1.03,17.65,,,1.03,18.5,1.02,14.08
+33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Nishikori K.,Kokkinakis T.,9,,3650,,4,6,6,1,6,4,6,4,,,3,1,Completed,1.02,17,1.01,11.5,1.03,11,1.03,17.65,,,1.03,18.5,1.02,14.08
 33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Chardy J.,Albot R.,74,88,705,613,6,2,6,4,7,6,,,,,3,0,Completed,1.14,5.5,1.13,5.2,1.17,5,1.17,6.02,,,1.17,6.02,1.14,5.5
 33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Murray A.,Kuznetsov An.,1,73,10370,705,6,4,4,6,6,2,6,0,,,3,1,Completed,1.16,5,1.15,4.75,1.17,5,1.18,5.55,,,1.18,5.8,1.16,5.09
 33,Paris,French Open,5/30/17,Grand Slam,Outdoor,Clay,1st Round,5,Lorenzi P.,Berankis R.,34,188,1153,290,6,0,6,2,6,4,,,,,3,0,Completed,1.3,3.5,1.28,3.35,1.3,3.5,1.32,3.74,,,1.32,3.74,1.3,3.5

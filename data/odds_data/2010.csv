@@ -64,12 +64,12 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Troicki V.,Gimeno-Traver D.,29,72,1175,613,6,1,7,5,,,,,,,2,0,Completed,1.16,4.5,1.18,4.45,1.2,4.333,1.211,5.17,1.2,4.5,,,,
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Stakhovsky S.,Youzhny M.,60,19,733,1690,7,6,6,2,,,,,,,2,0,Completed,3.75,1.25,3.75,1.25,3.75,1.25,3.84,1.317,3.5,1.25,,,,
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Korolev E.,Vassallo-Arguello M.,53,99,848,535,6,2,6,3,,,,,,,2,0,Completed,1.25,3.75,1.2,4.25,1.25,3.75,1.26,4.42,1.25,3.5,,,,
-3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Rochus O.,Hajji A.,57,N/A,757,N/A,6,1,6,0,,,,,,,2,0,Completed,1.02,12,,,1.02,11,1.043,15.75,1.05,8,,,,
+3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Rochus O.,Hajji A.,57,,757,,6,1,6,0,,,,,,,2,0,Completed,1.02,12,,,1.02,11,1.043,15.75,1.05,8,,,,
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Chiudinelli M.,Lorenzi P.,56,84,767,577,7,5,6,3,,,,,,,2,0,Completed,1.33,3.25,1.35,3.1,1.333,3.25,1.333,3.71,1.3,3.2,,,,
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Karlovic I.,Fognini F.,37,54,1015,790,6,4,6,4,,,,,,,2,0,Completed,1.36,3,1.36,2.9,1.4,2.75,1.376,3.41,1.364,2.875,,,,
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Starace P.,Gil F.,62,69,682,642,6,2,6,0,,,,,,,2,0,Completed,2.25,1.57,2.3,1.6,2.25,1.571,2.55,1.595,2.375,1.533,,,,
 3,Doha,Qatar Exxon Mobil Open,1/4/10,ATP250,Outdoor,Hard,1st Round,3,Gulbis E.,Montanes A.,90,31,555,1140,6,2,7,5,,,,,,,2,0,Completed,1.4,2.75,1.38,3,1.4,2.75,1.426,3.14,1.333,3,,,,
-3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,El Aynaoui Y.,De Heart R.,N/A,241,N/A,187,7,6,7,6,,,,,,,2,0,Completed,2.62,1.44,2.45,1.5,2.75,1.4,2.55,1.595,2.75,1.4,,,,
+3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,El Aynaoui Y.,De Heart R.,,241,,187,7,6,7,6,,,,,,,2,0,Completed,2.62,1.44,2.45,1.5,2.75,1.4,2.55,1.595,2.75,1.4,,,,
 3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,Darcis S.,Garcia-Lopez G.,122,41,451,954,6,4,6,1,,,,,,,2,0,Completed,2.37,1.53,2.35,1.55,2.5,1.5,2.46,1.629,2.5,1.5,,,,
 3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,Seppi A.,Hernandez O.,49,70,900,633,6,4,7,5,,,,,,,2,0,Completed,1.2,4.33,1.21,4.06,1.25,3.75,1.256,4.47,1.25,3.5,,,,
 3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,Becker B.,Koellerer D.,40,71,986,617,5,1,,,,,,,,,0,0,Retired,1.53,2.37,1.55,2.35,1.571,2.25,1.581,2.58,1.571,2.25,,,,
@@ -77,7 +77,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,Nadal R.,Bolelli S.,2,93,9205,549,6,3,6,3,,,,,,,2,0,Completed,1.02,12,1.02,11.5,1.02,11,1.05,14.8,1.04,10,,,,
 3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,Federer R.,Rochus C.,1,86,10550,575,6,1,6,2,,,,,,,2,0,Completed,1,21,1.02,11.5,1.01,17,1.025,21,1.01,17,,,,
 3,Doha,Qatar Exxon Mobil Open,1/5/10,ATP250,Outdoor,Hard,1st Round,3,Davydenko N.,Kukushkin M.,6,132,4930,409,6,2,6,0,,,,,,,2,0,Completed,1.05,9,1.07,7.19,1.05,8.5,1.097,9.25,1.071,8,,,,
-3,Doha,Qatar Exxon Mobil Open,1/6/10,ATP250,Outdoor,Hard,2nd Round,3,Darcis S.,El Aynaoui Y.,122,N/A,451,N/A,6,3,6,1,,,,,,,2,0,Completed,1.44,2.62,1.5,2.45,1.4,2.75,1.513,2.79,1.4,2.75,,,,
+3,Doha,Qatar Exxon Mobil Open,1/6/10,ATP250,Outdoor,Hard,2nd Round,3,Darcis S.,El Aynaoui Y.,122,,451,,6,3,6,1,,,,,,,2,0,Completed,1.44,2.62,1.5,2.45,1.4,2.75,1.513,2.79,1.4,2.75,,,,
 3,Doha,Qatar Exxon Mobil Open,1/6/10,ATP250,Outdoor,Hard,2nd Round,3,Kubot L.,Stakhovsky S.,101,60,528,733,6,2,7,6,,,,,,,2,0,Completed,2,1.72,1.95,1.8,2.1,1.667,2.11,1.833,2,1.8,,,,
 3,Doha,Qatar Exxon Mobil Open,1/6/10,ATP250,Outdoor,Hard,2nd Round,3,Federer R.,Korolev E.,1,53,10550,848,6,2,6,4,,,,,,,2,0,Completed,1.01,15,1.02,10,1.03,10,1.025,21,1.02,11,,,,
 3,Doha,Qatar Exxon Mobil Open,1/6/10,ATP250,Outdoor,Hard,2nd Round,3,Troicki V.,Rochus O.,29,57,1175,757,6,2,6,2,,,,,,,2,0,Completed,1.5,2.5,1.48,2.53,1.533,2.375,1.552,2.66,1.5,2.5,,,,
@@ -2275,13 +2275,13 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 53,Kuala Lumpur,Proton Malaysian Open,9/27/10,ATP250,Indoor,Hard,1st Round,3,Anderson K.,Falla A.,64,75,752,685,6,1,3,6,7,5,,,,,2,1,Completed,1.53,2.37,1.6,2.25,1.62,2.2,1.58,2.56,1.57,2.25,1.62,2.56,1.56,2.37
 53,Kuala Lumpur,Proton Malaysian Open,9/27/10,ATP250,Indoor,Hard,1st Round,3,Stakhovsky S.,Russell M.,31,86,1254,621,2,6,7,6,6,3,,,,,2,1,Completed,1.25,3.75,1.35,3,1.33,3.25,1.31,3.88,1.33,3,1.35,4,1.3,3.41
 53,Kuala Lumpur,Proton Malaysian Open,9/27/10,ATP250,Indoor,Hard,1st Round,3,Golubev A.,Lu Y.H.,41,44,1080,1043,7,5,6,2,,,,,,,2,0,Completed,1.57,2.25,1.6,2.25,1.62,2.2,1.69,2.33,1.73,2,1.7,2.33,1.65,2.18
-53,Kuala Lumpur,Proton Malaysian Open,9/27/10,ATP250,Indoor,Hard,1st Round,3,Bhambri Y.,Si Y.M.,532,N/A,48,N/A,6,2,6,0,,,,,,,2,0,Completed,1.12,5.5,1.15,5,1.14,5,1.2,5.29,1.2,4,1.2,6.2,1.15,5.06
+53,Kuala Lumpur,Proton Malaysian Open,9/27/10,ATP250,Indoor,Hard,1st Round,3,Bhambri Y.,Si Y.M.,532,,48,,6,2,6,0,,,,,,,2,0,Completed,1.12,5.5,1.15,5,1.14,5,1.2,5.29,1.2,4,1.2,6.2,1.15,5.06
 53,Kuala Lumpur,Proton Malaysian Open,9/28/10,ATP250,Indoor,Hard,1st Round,3,Dolgopolov O.,Recouderc L.,55,207,872,239,6,3,6,1,,,,,,,2,0,Completed,1.22,4,1.25,3.7,1.25,3.75,1.36,3.49,1.25,3.5,1.36,4.15,1.29,3.47
 53,Kuala Lumpur,Proton Malaysian Open,9/28/10,ATP250,Indoor,Hard,1st Round,3,Andreev I.,Soeda G.,102,104,540,534,6,1,6,4,,,,,,,2,0,Completed,1.38,2.87,1.4,2.8,1.4,2.75,1.45,3.05,1.44,2.63,1.51,3.05,1.42,2.75
 53,Kuala Lumpur,Proton Malaysian Open,9/28/10,ATP250,Indoor,Hard,1st Round,3,Raonic M.,Kunitsyn I.,237,105,198,520,7,6,6,3,,,,,,,2,0,Completed,2,1.72,2.15,1.65,2.25,1.57,2.04,1.88,2.38,1.53,2.38,1.88,2.05,1.72
 53,Kuala Lumpur,Proton Malaysian Open,9/28/10,ATP250,Indoor,Hard,1st Round,3,Baghdatis M.,Nishikori K.,18,123,2030,452,6,1,6,1,,,,,,,2,0,Completed,1.3,3.4,1.3,3.3,1.36,3,1.39,3.33,1.36,2.88,1.39,3.55,1.35,3.09
 53,Kuala Lumpur,Proton Malaysian Open,9/29/10,ATP250,Indoor,Hard,1st Round,3,Istomin D.,Ilhan M.,43,96,1051,577,2,6,6,3,6,4,,,,,2,1,Completed,1.2,4.33,1.3,3.3,1.29,3.5,1.26,4.48,1.22,3.75,1.33,4.48,1.25,3.81
-53,Kuala Lumpur,Proton Malaysian Open,9/29/10,ATP250,Indoor,Hard,1st Round,3,Roger-Vasselin E.,Cermak F.,106,N/A,517,N/A,6,0,6,4,,,,,,,2,0,Completed,1.14,5,1.16,4.75,1.17,4.5,1.16,6.35,1.2,4,1.22,8.2,1.14,5.17
+53,Kuala Lumpur,Proton Malaysian Open,9/29/10,ATP250,Indoor,Hard,1st Round,3,Roger-Vasselin E.,Cermak F.,106,,517,,6,0,6,4,,,,,,,2,0,Completed,1.14,5,1.16,4.75,1.17,4.5,1.16,6.35,1.2,4,1.22,8.2,1.14,5.17
 53,Kuala Lumpur,Proton Malaysian Open,9/29/10,ATP250,Indoor,Hard,1st Round,3,Ferrer D.,Tomic B.,11,218,3135,224,6,3,6,4,,,,,,,2,0,Completed,1.08,7,1.08,7,1.11,6,1.1,9.05,1.13,5.5,1.13,10,1.09,7.07
 53,Kuala Lumpur,Proton Malaysian Open,9/29/10,ATP250,Indoor,Hard,2nd Round,3,Youzhny M.,Dolgopolov O.,9,55,3295,872,6,1,5,7,7,5,,,,,2,1,Completed,1.36,3,1.4,2.8,1.4,2.75,1.4,3.3,1.33,3,1.42,3.3,1.36,3.01
 53,Kuala Lumpur,Proton Malaysian Open,9/29/10,ATP250,Indoor,Hard,2nd Round,3,Raonic M.,Stakhovsky S.,237,31,198,1254,6,7,7,6,6,3,,,,,2,1,Completed,3,1.36,2.8,1.4,3,1.36,3.58,1.35,3,1.33,3.8,1.41,3.12,1.34

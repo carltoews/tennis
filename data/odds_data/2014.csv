@@ -61,7 +61,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 3,Doha,Qatar Exxon Mobil Open,12/30/13,ATP250,Outdoor,Hard,1st Round,3,Kamke T.,Jaziri M.,74,168,663,312,6,3,6,4,,,,,,,2,0,Completed,1.5,2.5,1.58,2.35,1.57,2.25,1.53,2.65,1.57,2.25,1.62,2.65,1.54,2.43
 3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Brown D.,Dodig I.,111,33,506,1190,6,4,6,2,,,,,,,2,0,Completed,3,1.36,3.1,1.35,2.75,1.4,3.27,1.38,2.88,1.36,3.3,1.42,3.01,1.37
 3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Gojowczyk P.,Thiem D.,162,139,321,410,7,5,6,0,,,,,,,2,0,Completed,2.1,1.66,2.2,1.65,2.25,1.57,2.2,1.74,2.1,1.67,2.25,1.84,2.14,1.68
-3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Murray A.,Zayed M.S.,4,N/A,5790,N/A,6,0,6,0,,,,,,,2,0,Completed,,51,1.01,13,,26,1.01,76,1.01,21,1.01,101,1.01,34.46
+3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Murray A.,Zayed M.S.,4,,5790,,6,0,6,0,,,,,,,2,0,Completed,,51,1.01,13,,26,1.01,76,1.01,21,1.01,101,1.01,34.46
 3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Brands D.,Davydenko N.,54,53,836,890,6,4,6,4,,,,,,,2,0,Completed,1.83,1.83,1.9,1.85,2,1.73,2.1,1.81,2,1.73,2.1,1.88,1.96,1.8
 3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Ferrer D.,Dolgopolov O.,3,57,5800,825,6,3,5,7,6,3,,,,,2,1,Completed,1.14,5.5,1.15,5.25,1.14,5,1.21,4.9,1.14,5,1.21,5.75,1.16,5.09
 3,Doha,Qatar Exxon Mobil Open,12/31/13,ATP250,Outdoor,Hard,1st Round,3,Mayer F.,Przysiezny M.,40,66,1065,730,6,2,3,6,7,6,,,,,2,1,Completed,1.44,2.62,1.48,2.6,1.4,2.75,1.38,3.26,1.44,2.63,1.56,3.26,1.44,2.72
@@ -1690,7 +1690,7 @@ ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRa
 41,Bogota,Claro Open Colombia,7/15/14,ATP250,Outdoor,Clay,1st Round,3,De Bakker T.,King K.,147,344,398,130,2,6,7,6,6,3,,,,,2,1,Completed,1.33,3.25,1.35,3.1,1.36,3,1.41,3.13,1.17,5,1.41,3.5,1.34,3.17
 41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Sela D.,Arguello F.,102,121,568,510,6,4,6,2,,,,,,,2,0,Completed,2,1.72,,,,,,,,,2,1.83,1.92,1.78
 41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Falla A.,Ito T.,54,126,853,486,6,3,6,2,,,,,,,2,0,Completed,1.18,4.5,1.18,4.5,1.17,4.5,1.22,4.73,1.2,4.5,1.23,4.8,1.19,4.49
-41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Groth S.,Cabal J.S.,99,N/A,581,N/A,6,3,6,7,7,6,,,,,2,1,Completed,1.2,4.33,1.2,4.3,1.22,4,1.25,4.43,1.22,4,1.25,4.65,1.21,4.23
+41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Groth S.,Cabal J.S.,99,,581,,6,3,6,7,7,6,,,,,2,1,Completed,1.2,4.33,1.2,4.3,1.22,4,1.25,4.43,1.22,4,1.25,4.65,1.21,4.23
 41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Polansky P.,Barrientos N.,130,329,457,138,3,6,6,4,6,3,,,,,2,1,Completed,1.36,3,1.45,2.7,1.36,3,1.45,2.95,1.36,3,1.46,3.05,1.4,2.86
 41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Estrella Burgos V.,Londero J.I.,92,193,604,262,7,5,6,3,,,,,,,2,0,Completed,1.66,2.1,1.68,2.15,1.73,2,1.85,2.05,1.73,2.1,1.83,2.2,1.72,2.08
 41,Bogota,Claro Open Colombia,7/16/14,ATP250,Outdoor,Clay,1st Round,3,Ward J.,Ebden M.,152,81,371,642,6,4,3,0,,,,,,,1,0,Retired,2.1,1.66,2.05,1.75,2.1,1.67,2.27,1.7,2.2,1.67,2.3,1.7,2.17,1.67
