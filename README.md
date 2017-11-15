@@ -14,6 +14,7 @@ The directory structure is as follows:
 *  images:  records screenshots of various issues I discover as I work through the project.
 *  pickle_files:  cleaned data stored in binary form for easy retrieval.
 *  results:  specific show-and-tell worthy results, each in its own notebook.
+*  notebooks:  holds the main work, all done in Python, all stored in Jupyter notebooks.
 
 Within the "notebooks" directory, there are four Python Jupyter Notebooks, each devoted to a different task:
 
