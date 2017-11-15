@@ -8,7 +8,14 @@ This repository is devoted to exploring machine learning ideas on professional t
 
 The data for this project comes from two sources:  raw player data is from https://github.com/JeffSackmann/tennis_atp, and public betting odds data is from http://www.tennis-data.co.uk/alldata.  
 
-There are four Python Jupyter Notebooks in this repository, each devoted to a different task:
+The directory structure is as follows:
+
+*  data:  holds the raw CSV files from the sources above
+*  images:  records screenshots of various issues I discover as I work through the project.
+*  pickle_files:  cleaned data stored in binary form for easy retrieval.
+*  results:  specific show-and-tell worthy results, each in its own notebook.
+
+Within the "notebooks" directory, there are four Python Jupyter Notebooks, each devoted to a different task:
 
 1.  setup_mysql.ipynb:  provides code to port the CSV file data to a MySQL database.
 2.  merge_datasets.ipynb:  provides code to establish a one-to-one relation between matches from the two data sources.  
