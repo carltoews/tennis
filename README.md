@@ -6,4 +6,21 @@ This repository is devoted to exploring machine learning ideas on professional t
 2.  to gain experience implementing machine learning algorithms in Python
 3.  to gain experience with the Python-MySQL interface.  
 
-Other graduates of the the Coursera course who are interested in extending its core ideas to the setting of professional tennis are welcome to play with my scripts.  I would welcome feedback about best practices, new approaches, or anything else.
+The data for this project comes from two sources:  raw player data is from https://github.com/JeffSackmann/tennis_atp, and public betting odds data is from http://www.tennis-data.co.uk/alldata.  
+
+The directory structure is as follows:
+
+*  data:  holds the raw CSV files from the sources above
+*  images:  records screenshots of various issues I discover as I work through the project.
+*  pickle_files:  cleaned data stored in binary form for easy retrieval.
+*  results:  specific show-and-tell worthy results, each in its own notebook.
+*  notebooks:  holds the main work, all done in Python, all stored in Jupyter notebooks.
+
+Within the "notebooks" directory, there are four Python Jupyter Notebooks, each devoted to a different task:
+
+1.  setup_mysql.ipynb:  provides code to port the CSV file data to a MySQL database.
+2.  merge_datasets.ipynb:  provides code to establish a one-to-one relation between matches from the two data sources.  
+3.  extract_features.ipynb:  provides code to extract learning-worthy features from the player data
+4.  tennis_predictions.ipynb:  use the features to try to predict match outcomes.
+
+Many of the underlying ideas come from Sipko, "Machine learning for the predicition of professional tennis matches", 2015.  However, I have access to a slightly different set of data, and use somewhat different features.    
